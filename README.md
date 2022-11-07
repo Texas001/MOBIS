@@ -1,7 +1,7 @@
 # MOBIS
 # Code File：
 The Code file contains the code used in the paper to simulate the risk of virus transmission in university student cafeterias.
-# Program input： 
+# Program input and output： 
 1. Number of cycles：The number of cycles is used to control the duration of the model run.
 2. Infection parameters: Infection parameters are used to adjust the infection risk intensity of the virus and the desired risk threshold.
 3. Stage parameters: The stage parameter is used to reflect the moment of change in the intensity of the incoming human traffic in the indoor space.
