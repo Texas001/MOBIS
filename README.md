@@ -1,4 +1,4 @@
-# MOBIS
+# Geographical scenario-based infectious disease risk simulation model for indoor public space
 # Code File：
 The code file contains the code used in the paper to simulate the risk of virus transmission in college canteen and the data set used for the experiment.
 # Program input and output： 
