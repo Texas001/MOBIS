@@ -1,0 +1,251 @@
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\bin\Debug\CA_COVID1.exe.config
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\bin\Debug\CA_COVID1.exe
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\bin\Debug\CA_COVID1.pdb
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.Form1.resources
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.Properties.Resources.resources
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.exe
+C:\Users\Zhanghaiping\source\repos\CA_COVID1\CA_COVID1\obj\Debug\CA_COVID1.pdb
+E:\Program\C#\covid\CA_COVID1\bin\Debug\CA_COVID1.exe.config
+E:\Program\C#\covid\CA_COVID1\bin\Debug\CA_COVID1.exe
+E:\Program\C#\covid\CA_COVID1\bin\Debug\CA_COVID1.pdb
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.Form1.resources
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.exe
+E:\Program\C#\covid\CA_COVID1\obj\Debug\CA_COVID1.pdb
+E:\Program\C#\covid\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe.config
+E:\Program\C#\covid\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe
+E:\Program\C#\covid\CA_COVID1 - 副本\bin\Debug\CA_COVID1.pdb
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Form1.resources
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.exe
+E:\Program\C#\covid\CA_COVID1 - 副本\obj\Debug\CA_COVID1.pdb
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe.config
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\bin\Debug\CA_COVID1.pdb
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.exe
+D:\CODA\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1 - 副本2\CA_COVID1 - 副本\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1\CA_COVID1 - 副本\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_2.17\CA_COVID1 - 2.17\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_2.24\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.22\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_3.27改1\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1_3.28\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.28（2）\CA_COVID1_3.27\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+D:\CODA_C#\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1 - 3.29改\CA_COVID1 - 3.29\CA_COVID1 - 2.24\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\bin\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.exe
+E:\大学\大创\CA_COVID1_3.29改（副本_无八方向）\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\bin\Debug\CA_COVID1.exe
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.exe
+E:\大学\大创\代码\CA_COVID1_3.29_四方向_副本\obj\Debug\CA_COVID1.pdb
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.exe.config
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.exe
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.pdb
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.Form1.resources
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.exe
+D:\mobis模型\代码\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码3.14\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.pdb
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.exe.config
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.exe
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\bin\Debug\CA_COVID1.pdb
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.Form1.resources
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.Properties.Resources.resources
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.exe
+D:\mobis模型\CA_COVID1_3.29_四方向_4.16\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码7.6\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\代码\代码7.6\bin\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码7.6\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码7.6\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码8.28 - 副本\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\代码\代码8.28 - 副本\bin\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码8.28 - 副本\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码8.28 - 副本\obj\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码11.11\bin\Debug\CA_COVID1.exe.config
+E:\大学\大创\代码\代码11.11\bin\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码11.11\bin\Debug\CA_COVID1.pdb
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.csprojAssemblyReference.cache
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.Form1.resources
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.Properties.Resources.resources
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.exe
+E:\大学\大创\代码\代码11.11\obj\Debug\CA_COVID1.pdb
+H:\Paper2022\mobis\code\Code\代码11.11\bin\Debug\CA_COVID1.exe.config
+H:\Paper2022\mobis\code\Code\代码11.11\bin\Debug\CA_COVID1.exe
+H:\Paper2022\mobis\code\Code\代码11.11\bin\Debug\CA_COVID1.pdb
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.csproj.AssemblyReference.cache
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.csproj.SuggestedBindingRedirects.cache
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.Form1.resources
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.Properties.Resources.resources
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.csproj.GenerateResource.cache
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.csproj.CoreCompileInputs.cache
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.exe
+H:\Paper2022\mobis\code\Code\代码11.11\obj\Debug\CA_COVID1.pdb
