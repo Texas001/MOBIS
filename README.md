@@ -7,9 +7,9 @@
 4. Run the setup.exe
 5. Complete setup
 ### Running Environment
-Development platform: Microsoft Visual Studio 2022
-Development language：C#
-Additional packages ：No additional packages
+1. Development platform: Microsoft Visual Studio 2022
+2. Development language：C#
+3. Additional packages ：No additional packages
 ## File：
 ### Source code file
 The code file contains the code used in the paper to simulate the risk of virus transmission in college canteen and the data set used for the experiment.
