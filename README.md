@@ -12,7 +12,7 @@
 3. Additional packages ：No additional packages
 ## File：
 ### Source code file
-The code file contains the code used in the paper to simulate the risk of virus transmission in college canteen and the data set used for the experiment.
+The code file contains the source code used in the paper to simulate the risk of virus transmission in college canteen .
 ### Input file
 File1 <Input data>: Input data is used to build indoor public place simulation scenarios.
 File2 <Infector>: Infector file is to control the number of patients entered and the time of entry.
